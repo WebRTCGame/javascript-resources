@@ -232,5 +232,18 @@ Skillcrush | http://skillcrush.com/get-started-in-tech/skillcrush-102-javascript
 Code School | http://codeschool.com/
 CodeCombat | http://codecombat.com/
 
+####Organization:
+
+Name                              | Link
+-------------                     | -------------
+Designing Better JavaScript APIs | http://coding.smashingmagazine.com/2012/10/09/designing-javascript-apis-usability/
+Asynchronous JS: Callbacks, Listeners, Control Flow Libs and Promises | http://sporto.github.com/blog/2012/12/09/callbacks-listeners-promises/
+I .promise() to show you .when() to use Deferreds | http://www.youtube.com/watch?v=juRtEEsHI9E
+JavaScript Module Pattern: In-Depth | http://www.adequatelygood.com/2010/3/JavaScript-Module-Pattern-In-Depth
+Single page apps in depth | http://singlepageappbook.com/single-page.html
+Can you help me understand the benefit of require.js? | https://gist.github.com/desandro/4686136
+Journey From RequireJS to Browserify | http://esa-matti.suuronen.org/blog/2013/03/22/journey-from-requirejs-to-browserify/
+Client-Side Templating | http://coding.smashingmagazine.com/2012/12/05/client-side-templating/
+Rich JavaScript Applications – the Seven Frameworks | http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/
 
 
