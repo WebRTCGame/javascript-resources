@@ -18,6 +18,11 @@ Learning JavaScript Design Patterns | http://addyosmani.com/resources/essentialj
 Name                              | Link
 -------------                     | -------------
 MDN - Javascript               | https://developer.mozilla.org/en-US/docs/Web/JavaScript
+devdocs.io | http://devdocs.io/
+tutorialspoint - Javascript | http://www.tutorialspoint.com/javascript/index.htm
+W3C | http://www.w3.org/
+webplatform | http://docs.webplatform.org/wiki/Main_Page
+
 
 ####Online Editors:
 
@@ -28,6 +33,7 @@ cloud9 | https://c9.io/
 CodeRun | http://www.coderun.com/ide/
 Compilr | https://compilr.com/
 ShiftEdit | http://shiftedit.net/
+Cloud IDE | http://cloud-ide.com/
 
 
 
