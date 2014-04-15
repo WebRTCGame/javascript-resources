@@ -246,4 +246,13 @@ Journey From RequireJS to Browserify | http://esa-matti.suuronen.org/blog/2013/0
 Client-Side Templating | http://coding.smashingmagazine.com/2012/12/05/client-side-templating/
 Rich JavaScript Applications – the Seven Frameworks | http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/
 
+####Testing:
 
+Name                              | Link
+-------------                     | -------------
+Writing Testable Frontend Javascript Part 1 – Anti-patterns and their fixes | https://shanetomlinson.com/2013/testing-javascript-frontend-part-1-anti-patterns-and-fixes/
+Writing Testable JavaScript | http://www.adequatelygood.com/2010/7/Writing-Testable-JavaScript
+Make tests read like a book | http://uxebu.com/blog/2013/01/08/make-tests-read-like-a-book/
+The Plight of Pinocchio: JavaScript's quest to become a real language | http://opensoul.org/blog/archives/2012/05/16/the-plight-of-pinocchio/
+Let's Code: Test-Driven JavaScript | http://www.letscodejavascript.com/
+Testable JavaScript | http://shop.oreilly.com/product/0636920024699.do
