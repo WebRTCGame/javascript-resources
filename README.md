@@ -35,8 +35,17 @@ Compilr | https://compilr.com/
 ShiftEdit | http://shiftedit.net/
 Cloud IDE | http://cloud-ide.com/
 
+##Playgrounds:
 
-
+Name                              | Link
+-------------                     | -------------
+JSFiddle              | http://jsfiddle.net/
+CodePen | http://codepen.io/
+CSS Deck | http://cssdeck.com/
+JS Bin | http://jsbin.com/
+Dabblet | http://dabblet.com/
+Tinkerbin | http://tinkerbin.com/
+Liveweave | http://liveweave.com/
 
 ####e-Learning:
 
