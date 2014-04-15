@@ -245,6 +245,8 @@ Can you help me understand the benefit of require.js? | https://gist.github.com/
 Journey From RequireJS to Browserify | http://esa-matti.suuronen.org/blog/2013/03/22/journey-from-requirejs-to-browserify/
 Client-Side Templating | http://coding.smashingmagazine.com/2012/12/05/client-side-templating/
 Rich JavaScript Applications – the Seven Frameworks | http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/
+mixins | http://javascriptweblog.wordpress.com/2011/05/31/a-fresh-look-at-javascript-mixins/
+game code organization | http://buildnewgames.com/js-game-code-org/
 
 ####Testing:
 
