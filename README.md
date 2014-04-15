@@ -11,6 +11,13 @@ Eloquent JavaScript 2nd Edition   | http://eloquentjavascript.net/2nd_edition/pr
 JavaScript Allongé | https://leanpub.com/javascript-allonge/read
 Speaking JavaScript | http://speakingjs.com/
 Learning JavaScript Design Patterns | http://addyosmani.com/resources/essentialjsdesignpatterns/book/
+Wikibooks’ JavaScript book | http://en.wikibooks.org/wiki/JavaScript/Introduction
+
+####Lectures / Videos:
+
+Name                              | Link
+-------------                     | -------------
+Crockford on Javascript           | http://yuiblog.com/crockford/
 
 
 ####Reference Sites:
