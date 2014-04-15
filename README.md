@@ -61,8 +61,36 @@ Wikibooks’ JavaScript book | http://en.wikibooks.org/wiki/JavaScript/Introduct
 
 Name                              | Link
 -------------                     | -------------
-Crockford on Javascript           | http://yuiblog.com/crockford/
 Youtube (filtered result) | https://www.youtube.com/results?search_sort=video_view_count&search_query=javascript&filters=video%2C+long&lclk=long
+Crockford Volume One: The Early Years | http://www.yuiblog.com/blog/2010/02/03/video-crockonjs-1
+Crockford Chapter 2: And Then There Was JavaScript | http://www.yuiblog.com/blog/2010/02/09/video-crockonjs-2
+Crockford Act III: Function the Ultimate | http://www.yuiblog.com/blog/2010/02/24/video-crockonjs-3
+Crockford Episode IV: The Metamorphosis of Ajax | http://www.yuiblog.com/blog/2010/03/09/video-crockonjs-4
+Crockford Part 5: The End of All Things | http://www.yuiblog.com/blog/2010/04/08/video-crockonjs-5
+Crockford Scene 6: Loopage | http://www.yuiblog.com/blog/2010/08/30/yui-theater-douglas-crockford-crockford-on-javascript-scene-6-loopage-52-min
+YUI JavaScript | http://yuiblog.com/blog/2007/01/24/video-crockford-tjpl
+YUI The Theory of the Dom | http://yuiblog.com/blog/2006/10/20/video-crockford-domtheory
+YUI Advanced JavaScript | http://yuiblog.com/blog/2006/11/27/video-crockford-advjs 
+YUI Browser Wars | http://yuiblog.com/blog/2007/03/05/browserwars
+YUI Quality | http://yuiblog.com/blog/2007/05/16/video-crockford-quality
+YUI JavaScript: The Good Stuff | http://yuiblog.com/blog/2007/06/08/video-crockford-goodstuff
+YUI The State of Ajax | http://yuiblog.com/blog/2007/11/05/video-crockford
+YUI The JSON Saga | http://www.yuiblog.com/blog/2009/08/11/video-crockford-json
+YUI Ajax Performance | http://yuiblog.com/blog/2008/12/23/video-crockford-performance
+YUI The State and Future of JavaScript | http://developer.yahoo.com/yui/theater/video.php?v=crockford-yuiconf2009-state
+YUI Project Future | http://www.yuiblog.com/blog/2010/12/07/video-crockford-projectfuture
+channel9 On the Past, Present and Future of JavaScript | http://channel9.msdn.com/posts/Charles/Douglas-Crockford-Alex-Russell-and-Joseph-Smarr-On-the-Past-Present-and-Future-of-JavaScript
+channel9 The Future of Programming Languages | http://channel9.msdn.com/pdc2008/TL57
+channel9 MIX10 Javascript Panel | http://channel9.msdn.com/posts/NicFill/Channel-9-Live-at-MIX10-Javascript-Panel-with-Douglas-Crockford-John-Resig--Erik-Meijer
+channel9 The Tale of JavaScript. I mean ECMAScript | http://live.visitmix.com/MIX10/Sessions/EX39
+channel9 MIX11 JavaScript Panel | http://channel9.msdn.com/Events/Ch9Live/MIX11/C9L106
+channel9 Ask Anything | http://channel9.msdn.com/Events/Ch9Live/MIX11/C9L107
+channel9 The New Parts | http://channel9.msdn.com/events/mix/mix11/EXT13
+channel9 Interactive Panel: JavaScript | http://channel9.msdn.com/events/MIX/MIX11/RES02
+google JavaScript: The Good Parts | http://google-code-updates.blogspot.com/2009/03/doug-crockford-javascript-good-parts.html
+infog Panel: The Future of Programming Languages | http://www.infoq.com/presentations/Future-of-Programming-Languages
+infog Heresy &amp; Heretical Open Source: A Heretic's Perspective | http://www.infoq.com/presentations/Heretical-Open-Source
+etsy JavaScript: The Good Parts | http://www.livestream.com/etsy/video?clipId=pla_1463e546-47ed-4a93-b59a-bd52b236e8b8
 
 
 ####Reference Sites:
