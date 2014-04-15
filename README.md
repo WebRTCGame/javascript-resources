@@ -256,3 +256,15 @@ Make tests read like a book | http://uxebu.com/blog/2013/01/08/make-tests-read-l
 The Plight of Pinocchio: JavaScript's quest to become a real language | http://opensoul.org/blog/archives/2012/05/16/the-plight-of-pinocchio/
 Let's Code: Test-Driven JavaScript | http://www.letscodejavascript.com/
 Testable JavaScript | http://shop.oreilly.com/product/0636920024699.do
+
+####Performance & Profiling:
+
+Name                              | Link
+-------------                     | -------------
+Writing Fast, Memory-Efficient JavaScript | http://coding.smashingmagazine.com/2012/11/05/writing-fast-memory-efficient-javascript/
+Improving Web App Performance With the Chrome DevTools | http://addyosmani.com/blog/performance-optimisation-with-timeline-profiles/
+Jank Busters: Building Performant Web Apps | http://www.youtube.com/watch?v=hAzhayTnhEI
+Leaner, Meaner, Faster Animations with requestAnimationFrame | http://www.html5rocks.com/en/tutorials/speed/animations/
+How (not) to trigger a layout in WebKit | http://gent.ilcore.com/2011/03/how-not-to-trigger-layout-in-webkit.html
+High Performance Browser Networking | http://chimera.labs.oreilly.com/books/1230000000545/index.html
+High Performance JavaScript | http://shop.oreilly.com/product/9780596802806.do
